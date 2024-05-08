@@ -31,7 +31,7 @@ Step 8: Save and run the application.
 ```
 /*
 Program to display animation operation”.
-Developed by: RIYASUDEEN.
+Developed by: RIYASUDEEN.R
 Registeration Number : 212221220044.
 */
 ```
